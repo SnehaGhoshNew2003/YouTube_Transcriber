@@ -1,4 +1,4 @@
-# YouTube Video Summarizer
+# YouTube Transcriber
 
 This project extracts YouTube video transcripts and generates AI-powered summaries using Google Gemini AI. It provides key insights from videos in a concise format.
 
